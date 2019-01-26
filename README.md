@@ -1,13 +1,21 @@
 # back-ends
 后端技术文档库
+github连接：https://github.com/lidong320321/back-end/wiki
 ## 目录说明：
 ```
 |--back-ends                                            //目录
     |--BasicKnowledge                                   //基础知识目录
-        basicKnowledge.md                               //java基础知识
+        |-- basicKnowledge.md                               //java基础知识
         |-- JAVA块知识点
     |--DataBase                                         //数据库知识
         basicKnowledge.md                               //数据库基础知识点
+    |--Linux                                            //linux相关知识点
+        |-- basicKnowledge.md                           //linux基础命令
+        |-- install_tools                               //linux下工具的安装
+            |--install_jdk.md                           //linux下安装jdk
+            |--install_zookeeper.md                     //linux下安装zookeeper
+            |--install_redis.md                         //linux下安装redis
+            |--install_nexus.md                         //linux下安装nexus
     |--MicroService                                     //微服务目录
         springBoot.md                                   //springboot知识点
 ```
@@ -16,6 +24,12 @@
     * [JAVA基础知识](BasicKnowledge/basicKnowledge.md)
 * [数据库]
     * [数据库基础知识](DataBase/basicKnowledge.md)
+* [Linux相关知识点]
+    * [Linux基础命令](Linux/basicKnowledge.md)
+    * [Linux下安装jdk](Linux/install_tools/install_jdk.md)
+    * [Linux下安装zookeeper](Linux/install_tools/install_zookeeper.md)
+    * [Linux下安装redis](Linux/install_tools/install_redis.md)
+    * [Linux下安装nexus](Linux/install_tools/install_nexus.md)
 * [微服务]
     * [springBoot](MicroService/springBoot.md)
 
