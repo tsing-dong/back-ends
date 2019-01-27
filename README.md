@@ -16,6 +16,7 @@ github连接：https://github.com/lidong320321/back-end/wiki
             |--install_zookeeper.md                     //linux下安装zookeeper
             |--install_redis.md                         //linux下安装redis
             |--install_nexus.md                         //linux下安装nexus
+            |--install_maven.md                         //linux下安装maven
     |--MicroService                                     //目录--微服务
         springBoot.md                                   //springboot知识点
     |--FrontEnd                                         //目录--前端
@@ -34,6 +35,7 @@ github连接：https://github.com/lidong320321/back-end/wiki
     * [Linux下安装zookeeper](Linux/install_tools/install_zookeeper.md)
     * [Linux下安装redis](Linux/install_tools/install_redis.md)
     * [Linux下安装nexus](Linux/install_tools/install_nexus.md)
+    * [Linux下安装maven](Linux/install_tools/install_maven.md)
 * [微服务]
     * [springBoot](MicroService/springBoot.md)
 
