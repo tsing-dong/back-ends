@@ -1,5 +1,17 @@
 ### 数据库基础知识
 
+## 修改字段长度：
+``` 
+    alter table 表名 modify column 字段名 类型;
+    例如
+
+    数据库中user表 name字段是varchar(30)
+
+    可以用
+
+    alter table user modify column name varchar(50) ;
+``` 
+
 ## 向某个数据库表中的添加字段：
 ``` 
     ALTER TABLE'数据库名'.'表名' 
