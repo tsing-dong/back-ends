@@ -16,3 +16,9 @@ SELECT count(TABLE_NAME) FROM information_schema.TABLES WHERE TABLE_SCHEMA='test
 /*mysql*/ ALTER TABLE 表名 MODIFY  字段名 类型 COMMENT '备注';
 
 ```
+
+## 修改数据库表名的备注信息:
+```
+alter table test1 comment '修改后的表的注释';
+
+```
