@@ -47,7 +47,7 @@ github连接：https://github.com/lidong320321/back-end/wiki
     * 【win_install】
         * [安装之vue](FrontEnd/install_tools/win_install/install_vue.md)
 * [Book]
-        * [安装之vue](Book/极限编程-拥抱变化.md)
+        * [极限编程](Book/极限编程-拥抱变化.md)
 
 
 
