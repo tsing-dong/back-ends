@@ -5,7 +5,7 @@
     alter table 表名 modify column 字段名 类型;
     例如
 
-    数据库中user表 name字段是varchar(30)
+    数据库中user表 name字段是 varchar(30)
 
     可以用
 
@@ -25,7 +25,7 @@ SELECT count(TABLE_NAME) FROM information_schema.TABLES WHERE TABLE_SCHEMA='test
 
 ## 修改数据库表中的备注信息:
 ```
-/*mysql*/ ALTER TABLE 表名 MODIFY  字段名 类型 COMMENT '备注';
+/*mysql*/ ALTER TABLE 表名 modify MODIFY  字段名 类型 COMMENT '备注';
 
 ```
 
