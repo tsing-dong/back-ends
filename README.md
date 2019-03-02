@@ -23,8 +23,11 @@ github连接：https://github.com/lidong320321/back-end/wiki
         |--install_tools                                //目录--工具安装
             |--win_install                              //目录--windows工具安装
                 |--install_vue.md                       //vue安装
+            |--vue                                      //目录--vue
+                |--vue基础.md                           // vue 基础文档
     |--Book                                             //阅读的书籍目录
-
+            |--极限编程-拥抱变化.md                       //极限编程-拥抱变化
+            
 ```
 ### 编程后端
 * [JAVA基础知识]
@@ -46,8 +49,10 @@ github连接：https://github.com/lidong320321/back-end/wiki
 * [前端工具安装]
     * 【win_install】
         * [安装之vue](FrontEnd/install_tools/win_install/install_vue.md)
+    * 【vue】
+        * [vue基础](FrontEnd/vue/vue基础.md)
 * [Book]                        
-        * [极限编程](Book/极限编程-拥抱变化.md)
+    * [极限编程](Book/极限编程-拥抱变化.md)
 
 
 

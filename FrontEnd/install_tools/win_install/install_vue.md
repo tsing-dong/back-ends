@@ -8,7 +8,7 @@
                         
 ### 3. 创建  vue 项目:        
         安装 vue 脚手架:                
-               npm install -g vue-cli           
+         npm install -g vue-cli           
 
 ### 4. 初始化项目使用的模板:            
          vue init webpack 项目名            
@@ -20,4 +20,16 @@
          npm install                
 
 ### 7. 运行项目:                
-         npm run  dev                            
+         npm run  dev  
+
+### 8. 查看 node 的版本:                
+         node -v
+        
+### 9. 查看 npm 的版本:                
+         npm  -v
+                          
+### 10. npm 升级:                
+         npm  install -g npm
+
+### 11. cnpm 安装:                
+         cnpm  install -g cnpm
