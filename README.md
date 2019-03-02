@@ -5,7 +5,10 @@ github连接：https://github.com/lidong320321/back-end/wiki
 ```
 |--back-ends                                            //目录
     |--BasicKnowledge                                   //目录--基础知识
-        |-- basicKnowledge.md                           //java基础知识
+        |-- basicKnowledge-2.md                         //java之修饰符
+        |-- basicKnowledge-1.md                         //java之变量定义
+        |-- basicKnowledge-0.md                         //java之数据类型
+        |-- basicKnowledge.md                           //java介绍
         |-- JAVA块知识点                                 //目录
     |--DataBase                                         //目录--数据库知识
         basicKnowledge.md                               //数据库基础知识点
@@ -28,10 +31,12 @@ github连接：https://github.com/lidong320321/back-end/wiki
     |--Book                                             //阅读的书籍目录
             |--极限编程-拥抱变化.md                       //极限编程-拥抱变化
             
+    |--Tools                                            //工具使用和安装目录
+        |--git.md                                       //git 使用
 ```
 ### 编程后端
 * [JAVA基础知识]
-    * [JAVA基础知识](BasicKnowledge/basicKnowledge.md)
+    * [JAVA基础知识](BasicKnowledge/index.md)
 * [数据库]
     * [数据库基础知识](DataBase/basicKnowledge.md)
 * [Linux相关知识点]
@@ -54,5 +59,7 @@ github连接：https://github.com/lidong320321/back-end/wiki
 * [Book]                        
     * [极限编程](Book/极限编程-拥抱变化.md)
 
+* [Tools]                        
+    * [git](Tools/git.md)
 
 
