@@ -2,6 +2,7 @@
 ![文档进度](https://img.shields.io/badge/Londing-0%25-orange.svg)
 ![版本](https://img.shields.io/badge/version-0.0.1-green.svg)
 
+`如果把每天过的都一样,生活就失去了乐趣。把每天过的不一样才能过的精彩！`
 
 ### 编程后端
 * [JAVA基础知识]
