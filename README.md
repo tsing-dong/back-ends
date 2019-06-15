@@ -1,6 +1,10 @@
+
+[![weibo-logo]](http://weibo.com/linpiaochen)
+
 ![作者](https://img.shields.io/badge/Author-青衣-roleId.svg?style=#006400&logo=Markdown)
 ![文档进度](https://img.shields.io/badge/Londing-0%25-orange.svg)
 ![版本](https://img.shields.io/badge/version-0.0.1-green.svg)
+
 
 <font color=#0099ff size=3  face="黑体">如果把每天过的都一样,生活就失去了乐趣。把每天过的不一样才能过的精彩！</font>
 
@@ -38,3 +42,15 @@
 # Booking 
 [700 | 极限编程](Book/极限编程-拥抱变化.md)
 
+# 代办
+
+- [ ] IO
+- [ ] 多线程
+- [ ] JVM
+- [ ] 详细设计
+- [ ] 编码
+- [ ] 测试
+- [ ] 交付
+
+
+[回到顶部](#后端编程--初级)
