@@ -6,13 +6,14 @@
 
 # 后端编程--初级
 
-## JAVA基础知识
+## JAVA基础知识 ![文档进度](https://img.shields.io/badge/Londing-0%20-orange.svg) ![版本](https://img.shields.io/badge/version-0.0.1-green.svg)
+
 [001 | JAVA基础知识](BasicKnowledge/index.md)
 
-## 数据库基础知识
+## 数据库基础知识 ![文档进度](https://img.shields.io/badge/Londing-0%20-orange.svg) ![版本](https://img.shields.io/badge/version-0.0.1-green.svg)
 [101 | 数据库基础知识](DataBase/basicKnowledge.md)
 
-## Linux基础知识
+## Linux基础知识 ![文档进度](https://img.shields.io/badge/Londing-0%20-orange.svg) ![版本](https://img.shields.io/badge/version-0.0.1-green.svg)
 [201 | Linux基础命令](Linux/basicKnowledge.md)  
 [202 | Linux下安装jdk](Linux/install_tools/install_jdk.md)   
 [203 | Linux下安装zookeeper](Linux/install_tools/install_zookeeper.md)  
@@ -21,19 +22,19 @@
 [206 | Linux下安装maven](Linux/install_tools/install_maven.md)
 
 
-# 后端编程--中级
+# 后端编程--中级 ![文档进度](https://img.shields.io/badge/Londing-0%20-orange.svg) ![版本](https://img.shields.io/badge/version-0.0.1-green.svg)
  300 略
 
-# 后端编程--架构
+# 后端编程--架构 ![文档进度](https://img.shields.io/badge/Londing-0%20-orange.svg) ![版本](https://img.shields.io/badge/version-0.0.1-green.svg)
 [401 | springBoot](MicroService/springBoot.md)
 
-# 前端编程--初级
+# 前端编程--初级 ![文档进度](https://img.shields.io/badge/Londing-0%20-orange.svg) ![版本](https://img.shields.io/badge/version-0.0.1-green.svg)
  500 | 略
 
-# 工具篇
+# 工具篇 ![文档进度](https://img.shields.io/badge/Londing-0%20-orange.svg) ![版本](https://img.shields.io/badge/version-0.0.1-green.svg)
  600 | 略
 
 
-# Booking
+# Booking 
 [700 | 极限编程](Book/极限编程-拥抱变化.md)
 
