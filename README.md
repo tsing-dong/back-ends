@@ -7,7 +7,7 @@
 
 # 后端编程--初级
 
-## JAVA基础知识 ![文档进度](https://img.shields.io/badge/Londing-0%20-orange.svg) ![版本](https://img.shields.io/badge/version-0.0.1-green.svg)
+## JAVA基础知识 ![文档进度](https://img.shields.io/badge/Londing-0%20-orange.svg) ![版本](https://img.shields.io/badge/version-0.0.2-green.svg)
 
 [001 | JAVA基础知识](BasicKnowledge/index.md)
 
