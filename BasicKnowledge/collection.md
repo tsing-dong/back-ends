@@ -77,6 +77,7 @@ Map用于保存具有映射关系的数据，Map里保存着两组数据：key�
 
 ```
 （3）HashMap和Hashtable比较:
+
       * 线程的安全:
         Hashtable是安全的, 因为一些方法中添加了 synchronized 关键字,保证了 hashtable 对象时线程安全的
         hashMap 是异步的,所有hashmap是线程不安全的
@@ -94,9 +95,29 @@ Map用于保存具有映射关系的数据，Map里保存着两组数据：key�
       *  尽量不要使用可变对象作为他们的key值
   
 
-（3）Map的其他类:
-        IdentityHashMap和HashMap的具体区别，IdentityHashMap使用 == 判断两个key是否相等，而HashMap使用的是equals方法比较key值。有什么区别呢？ 
-对于==，如果作用于基本数据类型的变量，则直接比较其存储的 “值”是否相等； 如果作用于引用类型的变量，则比较的是所指向的对象的地址。 
-对于equals方法，注意：equals方法不能作用于基本数据类型的变量 
-如果没有对equals方法进行重写，则比较的是引用类型的变量所指向的对象的地址； 
-诸如String、Date等类对equals方法进行了重写的话，比较的是所指向的对象的内容。 
+（4）Map的其他类:
+
+        IdentityHashMap和HashMap的具体区别，IdentityHashMap使用 == 判断两个key是否相等，而HashMap使用的是equals方法比较key值。有什么区别呢？ 对于==，如果作用于基本数据类型的变量，则直接比较其存储的 “值”是否相等； 如果作用于引用类型的变量，则比较的是所指向的对象的地址。 对于equals方法，注意：equals方法不能作用于基本数据类型的变量 如果没有对equals方法进行重写，则比较的是引用类型的变量所指向的对象的地址； 诸如String、Date等类对equals方法进行了重写的话，比较的是所指向的对象的内容。 
+（5）小结:   
+
+    HashMap 非线程安全 
+    HashMap：基于哈希表实现。使用HashMap要求添加的键类明确定义了hashCode()和equals()[可以重写hashCode()和equals()]，为了优化HashMap空间的使用，您可以调优初始容量和负载因子。
+    TreeMap：非线程安全基于红黑树实现。TreeMap没有调优选项，因为该树总处于平衡状态。
+
+
+    适用场景分析： 
+    HashMap和HashTable:HashMap去掉了HashTable的contains方法，但是加上了containsValue()和containsKey()方法。HashTable同步的，而HashMap是非同步的，效率上比HashTable要高。HashMap允许空键值，而HashTable不允许。
+
+    HashMap：适用于Map中插入、删除和定位元素。 
+    Treemap：适用于按自然顺序或自定义顺序遍历键(key)。
+   
+    线程安全集合类与非线程安全集合类 
+    LinkedList、ArrayList、HashSet是非线程安全的，Vector是线程安全的; 
+    HashMap是非线程安全的，HashTable是线程安全的; 
+    StringBuilder是非线程安全的，StringBuffer是线程安全的。
+
+    数据结构 
+    ArrayXxx:底层数据结构是数组，查询快，增删慢 
+    LinkedXxx:底层数据结构是链表，查询慢，增删快 
+    HashXxx:底层数据结构是哈希表。依赖两个方法：hashCode()和equals() 
+    TreeXxx:底层数据结构是二叉树。两种方式排序：自然排序和比较器排序
