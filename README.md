@@ -11,8 +11,10 @@
 
 [001 | JAVA基础知识](BasicKnowledge/index.md)
 
+
 ## 数据库基础知识 ![文档进度](https://img.shields.io/badge/Londing-0%20-orange.svg) ![版本](https://img.shields.io/badge/version-0.0.1-green.svg)
-[101 | 数据库基础知识](DataBase/basicKnowledge.md)
+[101 | 数据库基础知识](DataBase/basicKnowledge.md)    
+[050 | redis基础知识](redis/basicknowledge.md)
 
 ## Linux基础知识 ![文档进度](https://img.shields.io/badge/Londing-0%20-orange.svg) ![版本](https://img.shields.io/badge/version-0.0.1-green.svg)
 [201 | Linux基础命令](Linux/basicKnowledge.md)  
