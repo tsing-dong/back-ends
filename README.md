@@ -1,4 +1,4 @@
-<div align=center><img width="150" height="150" src="./pic/timg.jpg"/></div>
+<div align=center><img width="550" height="150" src="./pic/timg.jpg"/></div>
 
                                         燃烧生命!  青春依旧 !
 #
