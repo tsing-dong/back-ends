@@ -1,14 +1,11 @@
-<div align=center><img width="550" height="150" src="./pic/timg.jpg"/></div>
-
-                                        燃烧生命!  青春依旧 !
+<div align=center><img width="550" height="150" src="./pic/java.jpg"/></div>
+<div align=center><font color=#0099ff size=3  face="黑体">如果把每天过的都一样,生活就失去了乐趣。把每天过的不一样才能过的精彩！</font></div>
+                                       
 #
 
 ![作者](https://img.shields.io/badge/Author-青衣-roleId.svg?style=#006400&logo=Markdown)
 ![文档进度](https://img.shields.io/badge/Londing-0%25-orange.svg)
 ![版本](https://img.shields.io/badge/version-0.0.2-green.svg)
-
-
-<font color=#0099ff size=3  face="黑体">如果把每天过的都一样,生活就失去了乐趣。把每天过的不一样才能过的精彩！</font>
 
 # 后端编程--初级
 
