@@ -1,4 +1,4 @@
-<div align=center><img width="550" height="150" src="./pic/java.jpg"/></div>
+<div align=center><img width="1250" height="350" src="./pic/java.jpg"/></div>
 <div align=center><font color=#0099ff size=3  face="黑体">如果把每天过的都一样,生活就失去了乐趣。把每天过的不一样才能过的精彩！</font></div>
                                        
 #
