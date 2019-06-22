@@ -1,6 +1,7 @@
 # JAVA 基础编程
 [001]--> [JAVA基础知识-- 介绍、历史](java历史和简介.md)          
-[002]--> [JAVA基础知识-- 基本语法](基本语法.md)     
+[002]--> [JAVA基础知识-- 基本语法](基本语法.md)   
+[003]--> [JAVA基础知识-- 对象](对象.md)   
 [002]--> [JAVA基础知识-- 基本数据类型](basicKnowledge-0.md)     
 [003]--> [JAVA基础知识-- 变量](basicKnowledge-1.md)     
 [004]--> [JAVA基础知识-- 修饰符](basicKnowledge-2.md)  
