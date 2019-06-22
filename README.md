@@ -42,6 +42,9 @@
 # Booking 
 [700 | 极限编程]()
 
+# 规则
+[800 | markdown语法](markdown.md)
+
 # 代办
 - [ ] java 基础 [Loading!!!!]
 - [ ] IO []
