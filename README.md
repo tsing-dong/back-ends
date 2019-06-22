@@ -50,8 +50,8 @@
 - [ ] IO []
 - [ ] 多线程 []
 - [ ] JVM
-
-
+- [ ] 异常
+- [ ] 面向对象
 
 # 外部链接
 [![logo](https://cdn2.jianshu.io/favicon.ico)](https://www.jianshu.com/)
