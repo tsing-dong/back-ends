@@ -5,6 +5,7 @@
 &emsp;&emsp;
 ```
 字体颜色:   
+
 <font face="黑体">我是黑体字</font>   
 <font face="微软雅黑">我是微软雅黑</font>  
 <font face="STCAIYUN">我是华文彩云</font>  
@@ -13,3 +14,9 @@
 <font color=Blue>我是蓝色</font>   
 <font size=5>我是尺寸</font>   
 <font face="黑体" color=green size=5>我是黑体，绿色，尺寸为5</font>  
+
+代码块高亮:
+
+```key
+代码块
+```
