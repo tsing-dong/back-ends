@@ -51,7 +51,6 @@
 - [ ] 多线程 []
 - [ ] JVM
 - [ ] 异常
-- [ ] 日期工具类
 
 # 外部链接
 [![logo](https://cdn2.jianshu.io/favicon.ico)](https://www.jianshu.com/)
