@@ -12,7 +12,6 @@
 
 [001 | JAVA基础知识](BasicKnowledge/index.md)
 
-
 ## 数据库基础知识 ![文档进度](https://img.shields.io/badge/Londing-0%20-orange.svg) ![版本](https://img.shields.io/badge/version-0.0.1-green.svg)
 [101 | 数据库基础知识](DataBase/basicKnowledge.md)    
 [050 | redis基础知识](redis/basicknowledge.md)
@@ -24,7 +23,6 @@
 [204 | Linux下安装redis](Linux/install_tools/install_redis.md)  
 [205 | Linux下安装nexus](Linux/install_tools/install_nexus.md)    
 [206 | Linux下安装maven](Linux/install_tools/install_maven.md)
-
 
 # 后端编程--中级 ![文档进度](https://img.shields.io/badge/Londing-0%20-orange.svg) ![版本](https://img.shields.io/badge/version-0.0.1-green.svg)
  300 略
@@ -38,12 +36,14 @@
 # 工具篇 ![文档进度](https://img.shields.io/badge/Londing-0%20-orange.svg) ![版本](https://img.shields.io/badge/version-0.0.1-green.svg)
  600 | 略
 
-
 # Booking 
 [700 | 极限编程]()
 
 # 规则
 [800 | markdown语法](markdown.md)
+
+# 代码小工具
+[900 | 小工具类](java/smallstongclass/index.md)
 
 # 代办
 - [ ] java 基础 [Loading!!!!]
@@ -51,7 +51,7 @@
 - [ ] 多线程 []
 - [ ] JVM
 - [ ] 异常
-- [ ] 面向对象
+- [ ] 日期工具类
 
 # 外部链接
 [![logo](https://cdn2.jianshu.io/favicon.ico)](https://www.jianshu.com/)
