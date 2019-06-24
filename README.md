@@ -50,6 +50,7 @@
 
 # 代办
 - [ ] java 基础 [Loading!!!!]
+- [ ] java 虚拟机[Loading!!!!]
 - [ ] IO []
 - [ ] 多线程 []
 - [ ] JVM
