@@ -45,6 +45,9 @@
 # 代码小工具
 [900 | 小工具类](java/smallstongclass/index.md)
 
+# 语录
+[x001 | 语录](quotations/index.md)
+
 # 代办
 - [ ] java 基础 [Loading!!!!]
 - [ ] IO []
