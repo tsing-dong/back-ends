@@ -20,3 +20,8 @@
 ```key
 代码块
 ```
+
+导入图片:
+```
+![avatar](./static/java-thread.jpg)
+```
