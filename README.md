@@ -7,7 +7,7 @@
 
 #
 
-<table><tr><td bgcolor=black  width=700px;>
+<table><tr><td bgcolor=black  width=1000px;>
 
 # 后端编程--初级
 
