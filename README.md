@@ -40,7 +40,9 @@
  600 | 略
 
 # Booking 
-[700 | redis 设计和实现 ](Book/redis设计和实现/index.md)
+[700 | redis 设计和实现 ](Book/redis设计和实现/index.md)     
+[701 | Java  虚拟机 ](Book/java虚拟机/index.md)
+
 
 # 规则
 [800 | markdown语法](markdown.md)
