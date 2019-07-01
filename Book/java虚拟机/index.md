@@ -1,7 +1,7 @@
-<div align=center><img width="650" height="100" src="../static/redis.jpg"/></div>
+<div align=center><img width="250" height="300" src="./static/java虚拟机.png"/></div>
 
-## 第二章: 简单动态字符串
-[001]--> [ 数据结构和实现 ](01.数据结构和对象.md)      
+## 第二章: 自动内存管理机制
+[001]--> [ java 内存区域和内存溢出异常 ](01.内存区域和内存溢出异常.md)      
 ## 第三章: 链表
 [001]--> [ 链表和链节点的实现 ](02.链表和链节点的实现.md)      
 ## 第三章: 链表
