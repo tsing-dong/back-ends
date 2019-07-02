@@ -3,7 +3,11 @@
 <div align=center><font color=#0099ff size=3  face="黑体">有些路只能自己一個人默默的走過。沒有人能陪你走一生！</font></div>
 
 # 文档技术中技术
-<div align=left><img width="15" height="15" src="./pic/redis-favicon.png"/> redis </div>
+图片|技能|
+--|:--:|
+<img width="15" height="15" src="./pic/redis-favicon.png"/>|<div align=left> redis </div>
+
+
 
 #
 
