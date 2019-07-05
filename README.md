@@ -8,8 +8,6 @@
 | ----------------------------------------------------------- | :---------------------------: |
 | <img width="15" height="15" src="./pic/redis-favicon.png"/> | <div align=left> redis </div> |
 
-
-
 #
 
 <table><tr><td bgcolor=black  width=1000px;>
@@ -60,10 +58,10 @@
 
 # 代办
 - [ ] java 基础 [Loading!!!!]
-- [ ] java 虚拟机[Loading!!!!]
+- [ ] java 虚拟机[1]
+- [ ] nginx [2]
 - [ ] spring cloud
 - [ ] IO []
-- [ ] nginx 
 - [ ] 多线程 []
 - [ ] JVM
 - [ ] 异常代码
