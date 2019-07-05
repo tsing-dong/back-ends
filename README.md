@@ -45,7 +45,7 @@
  600 | 略
 
 # Booking 
-[700 | redis 设计和实现](Book/redis设计和实现/index.md) ![文档进度](https://img.shields.io/badge/finish-100%%20-green.svg)   
+[700 | redis 设计和实现](Book/redis设计和实现/index.md)
 [701 | Java  虚拟机 ](Book/java虚拟机/index.md)
 
 
