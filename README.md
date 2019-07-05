@@ -1,4 +1,4 @@
-<h1 align=center>时间: 550</h1>
+<h1 align=center>时间: 551</h1>
 
 <div align=center><img width="650" height="350" src="./pic/渡口.jpg"/></div>
 <div align=center><font color=#0099ff size=3  face="黑体">有些路只能自己一個人默默的走過。沒有人能陪你走一生！</font></div>
@@ -76,3 +76,4 @@
 
 </td></tr></table>
 
+![avatar](./pic/岁月时间轴.png)
