@@ -4,9 +4,9 @@
 <div align=center><font color=#0099ff size=3  face="黑体">有些路只能自己一個人默默的走過。沒有人能陪你走一生！</font></div>
 
 # 文档技术中技术
-图片|技能|
---|:--:|
-<img width="15" height="15" src="./pic/redis-favicon.png"/>|<div align=left> redis </div>
+| 图片                                                        |             技能              |
+| ----------------------------------------------------------- | :---------------------------: |
+| <img width="15" height="15" src="./pic/redis-favicon.png"/> | <div align=left> redis </div> |
 
 
 
@@ -63,6 +63,7 @@
 - [ ] java 虚拟机[Loading!!!!]
 - [ ] spring cloud
 - [ ] IO []
+- [ ] nginx 
 - [ ] 多线程 []
 - [ ] JVM
 - [ ] 异常代码
