@@ -1,7 +1,7 @@
 <h1 align=center>时间: 551</h1>
 
-<div align=center><img width="650" height="350" src="./pic/天空之城.jpg"/></div>
-<div align=center><font color=#0099ff size=3  face="黑体">天空之城</font></div>
+<div align=center><img width="650" height="350" src="./pic/人生.jpg"/></div>
+<div align=center><font color=#0099ff size=5  face="黑体">人,是一个感情动物!</font></div>
 
 # 文档技术中技术
 | 图片                                                        |             技能              |
