@@ -1,6 +1,6 @@
 <h1 align=center>时间: 551</h1>
 
-<div align=center><img width="650" height="350" src="./pic/人生.jpg"/></div>
+<div align=center><img width="650" height="750" src="./pic/人心.jpg"/></div>
 <div align=center><font color=#0099ff size=5  face="黑体">人,是一个感情动物!</font></div>
 
 # 文档技术中技术
