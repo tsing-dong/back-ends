@@ -56,7 +56,7 @@
 # 语录
 [x001 | 语录](quotations/index.md)
 
-# 代办
+# 代办--【实时】
 - [ ] java 基础 [Loading!!!!]
 - [ ] java 虚拟机[1]
 - [ ] nginx [2]
@@ -67,6 +67,9 @@
 - [ ] 异常代码
 - [ ] java8 新特性
 - [ ] 算法
+# 代办--【未来】
+- [ ] UML 图例--细节中的说明。
+
 # 外部链接
 [![logo](https://cdn2.jianshu.io/favicon.ico)](https://www.jianshu.com/)
 
