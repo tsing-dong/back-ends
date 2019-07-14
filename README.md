@@ -24,15 +24,25 @@
 #
 # 后端编程--初级
 ## JAVA基础知识 
+
+编号| 知识点
+---------| -------------
+001 | [ JAVA基础知识](BasicKnowledge/index.md)
+
+## 数据库基础知识
+
+编号| 知识点
+---------| -------------
+101 | [数据库基础知识](DataBase/basicKnowledge.md)
+150 | [redis基础知识](redis/basicknowledge.md)
+
+
+
 <table><tr><td bgcolor=black  width=1000px;>
 
-## JAVA基础知识
 
-[001 | JAVA基础知识](BasicKnowledge/index.md)
+ 
 
-## 数据库基础知识 
-[101 | 数据库基础知识](DataBase/basicKnowledge.md)    
-[050 | redis基础知识](redis/basicknowledge.md)
 
 ## Linux基础知识 
 [201 | Linux基础命令](Linux/basicKnowledge.md)  
