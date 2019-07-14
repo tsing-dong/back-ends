@@ -40,7 +40,7 @@
  500 | 略
 
 # 工具篇 ![文档进度](https://img.shields.io/badge/Londing-0%20-orange.svg) ![版本](https://img.shields.io/badge/version-0.0.1-green.svg)
- 600 | UML(统一建模工具)
+ [600 | UML(统一建模语言)](Linux/install_tools/install_maven.md)
 
 # Booking 
 [700 | redis 设计和实现](Book/redis设计和实现/index.md)    
