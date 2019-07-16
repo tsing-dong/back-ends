@@ -63,8 +63,8 @@
 # 读书笔记 
 | 编号 | 书籍名 | 阅读感悟 |
 | ---- | -------------------------------------------- | ------------------- |
-| 700  | [redis 设计和实现](Book/redis设计和实现/index.md)     | ................... |
-| 701  | [Java 虚拟机 ](Book/java虚拟机/index.md)     | ................... |
+| 700  | [redis 设计和实现](Book/redis设计和实现/index.md)     |[感悟](Book/redis设计和实现/readme.md)   |
+| 701  | [Java 虚拟机 ](Book/java虚拟机/index.md)     | [感悟](Book/java虚拟机/readme.md) |
 | 702  | [疯狂 java 讲义 ](Book/疯狂java讲义/index.md)     | ................... |
 
 # 规则
