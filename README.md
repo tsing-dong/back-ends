@@ -1,5 +1,5 @@
-<div align=center><img width="950" height="350" src="./pic/青春.jpeg"/></div>
-<div align=center><font color=#0099ff size=5  face="黑体">人,是一个感情动物!</font></div>
+<div align=center><img width="950" height="350" src="./pic/年轻.jpg"/></div>
+<div align=center><font color=#0099ff size=5  face="黑体">青春的懵懂是可爱的,壮年的稳重是让人安心的,在每个阶段做到问心无愧就好!!!</font></div>
 
 # 文档技术进行中ing ...
 <table>
