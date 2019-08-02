@@ -1,5 +1,5 @@
-<div align=center><img width="950" height="350" src="./pic/年轻.jpg"/></div>
-<div align=center><font color=#0099ff size=5  face="黑体">青春的懵懂是可爱的,壮年的稳重是让人安心的,在每个阶段做到问心无愧就好!!!</font></div>
+<div align=center><img width="950" height="350" src="./pic/man.jpg"/></div>
+<div align=center><font color=#0099ff size=5  face="黑体">作为一个男人,应该有一个温暖的态度,强硬的心,乐观的心态!</font></div>
 
 # 文档技术进行中ing ...
 <table>
