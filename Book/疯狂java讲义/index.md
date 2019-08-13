@@ -23,6 +23,7 @@
 ## 第十二章: SWing 编程
 [SWing编程-待续](12.SWing编程.md)
 ## 第十三章: mysql数据库和jdbc编程
+[mysql数据库和jdbc编程](13.mysql数据库和jdbc编程.md)
 ## 第十四章: Annation(注释)
 ## 第十五章: 输出/输入
 ## 第十六章: 多线程
