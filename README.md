@@ -42,6 +42,7 @@
 | 204  | [Linux下安装redis](Linux/install_tools/install_redis.md)     | ................... |
 | 205  | [Linux下安装nexus](Linux/install_tools/install_nexus.md)      | ................... |
 | 206  | [Linux下安装maven](Linux/install_tools/install_maven.md)     | ................... |
+| 207  | [Linux下安装mysql](Linux/install_tools/install_mysql.md)     | ................... |
 
 # 后端编程--中级 
  300 略
@@ -59,6 +60,8 @@
 | 编号 | 知识点 | 文档描述 |
 | ---- | -------------------------------------------- | ------------------- |
 | 600  | [UML(统一建模语言)](Tools/uml/index.md) | ................... |
+| 601  | [IDEA工具](Tools/idea/index.md) | ................... |
+| 602  | [git](Tools/git/index.md) | ................... |
 
 # 读书笔记 
 | 编号 | 书籍名 | 阅读感悟 |
