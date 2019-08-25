@@ -48,6 +48,7 @@
 | 205  | [Linux下安装nexus](Linux/install_tools/install_nexus.md)      | ................... |
 | 206  | [Linux下安装maven](Linux/install_tools/install_maven.md)     | ................... |
 | 207  | [Linux下安装mysql](Linux/install_tools/install_mysql.md)     | ................... |
+| 207  | [Linux下安装nginx](Linux/install_tools/install_nginx.md)     | ................... |
 
 # 后端编程--中级 
  300 略
