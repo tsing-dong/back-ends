@@ -45,3 +45,17 @@ eg:
 ```
     flush privileges;
 ```
+
+
+# 2. 客户端链接数据库时,数据库报密码乱码的问题:
+> 1. 修改加密规则:
+>>  ALTER USER 'product_service'@'%' IDENTIFIED BY 'Li15150594533.' PASSWORD EXPIRE NEVER;
+
+> 2. 更新用户的密码:
+>> ALTER USER 'product_service'@'%' IDENTIFIED WITH mysql_native_password BY 'Li15150594533.'; 
+
+> 3. 重置一下密码: 
+>> ALTER USER 'product_service'@'%' IDENTIFIED BY 'Li15150594533.';
+
+> 4. 刷新配置:
+>> FLUSH PRIVILEGES;
