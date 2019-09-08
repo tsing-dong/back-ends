@@ -1,4 +1,4 @@
-<div align=center><img width="950" height="350" src="./pic/man.jpg"/></div>
+<div align=center><img width="950" height="350" src="./pic/爱自由天意.jpeg"/></div>
 <div align=center><font color=#0099ff size=5  face="黑体">作为一个男人,应该有一个温暖的态度,强硬的心,乐观的心态!</font></div>
 
 # 文档技术进行中ing ...
