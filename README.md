@@ -22,7 +22,7 @@
 </table>
  
 # 前端编程--工具篇：
-- [ lodashjs - 数据处理 ](Book/疯狂java讲义/index.md)
+- [ lodashjs - 数据处理 ](font_end/tools/lodashjs.md)
 # 后端编程--初级
 
 ## JAVA基础知识 
