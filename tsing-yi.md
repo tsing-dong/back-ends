@@ -23,7 +23,7 @@
 - back-end
 
 - font-end
-- [TypeScript]()
+    - [TypeScript](/geek/tools/font-end/type-script/index.md)
 
 # Block chain
 
