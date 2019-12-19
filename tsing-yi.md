@@ -1,4 +1,4 @@
-# frameSet
+# FrameSet
 - back-end
     - springboot
     - springCloud
@@ -7,19 +7,19 @@
 - font-end
     - nestjs
 
-# storage:
+# Storage:
 - redis
 - mongodb
 - elasticSearch
 - mysql
 
-# news:
+# News:
 - activemq
 - kafka
 
 # Framework
 
-# tools
+# Tools
 - back-end
 
 - font-end
