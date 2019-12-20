@@ -1,20 +1,22 @@
 #### 1. 类型别名 
 - 注意：
-    - 这个还是有点模糊
+    - 基本没用
 - 案例：
 ```js
     type Name = number;
-    type NameResolver = () => number;
+    type NameResolver = () => string;
     type NameOrResolver = Name | NameResolver;
-    function getName(n: NameOrResolver): Name {
+    function getName(n: NameOrResolver): any {
         if (typeof n === 'number') {
             return n;
         } else {
             return n();
         }
     }
-    // console.log(getName('43'));
-    console.log(getName(4));
+    console.log(getName(43));
+    console.log(getName(() => {
+        return '1';
+    }));
 ```
 
 #### 2. 字符串字面常量
@@ -145,7 +147,7 @@
     createArray<string>(3, 'x'); 
 ```
 
-#### 7. 声明合并
+#### 8. 声明合并
 - 注意：
     - 1.接口合并，如果两个接口名称相同，就会将接口中的属性和方法合并成一个，在合并的过程中如果名称一致没问题，但是如果名称一致但是类型不一致就会报错。
 - 案例：
