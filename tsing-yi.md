@@ -1,11 +1,14 @@
-# FrameSet
+# Framework
 - back-end
     - springboot
     - springCloud
     - spring
+    - nestjs
 
 - font-end
-    - nestjs
+    - vue
+    - nust
+    
 
 # Storage:
 - redis
@@ -13,17 +16,17 @@
 - elasticSearch
 - mysql
 
-# News:
+# Network:
 - activemq
 - kafka
 
-# Framework
+# Architecture
 
-# Tools
+# Language
 - back-end
 
 - font-end
-    - [TypeScript](/geek/tools/font-end/type-script/index.md)
+    - [TypeScript](/geek/language/font-end/type-script/index.md)
 
 # Block chain
 
