@@ -30,5 +30,9 @@
 
 # Block chain
 
-# TODO
+# TODO:
+- 微信小程序
+- 微信支付 - java
+- mongodb
+
 
