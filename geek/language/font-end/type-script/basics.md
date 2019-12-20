@@ -189,7 +189,25 @@
 ```
 
 #### 13. 类型断言
+- 注意：
+    - 断言不是类型的转换，是判断是否是一种指定的类型。
+- 案例：
+```js
 
+    function getLength(something: string | number): number {
+        if ((<string>something).length) {
+            return (<string>something).length;
+        } else {
+            return something.toString().length;
+        }
+    }
+
+    console.log(getLength('23'));
+    console.log(getLength(23));
+
+```
 #### 14. 声明文件
+    TODO： 这个需要在实际的场景中应用再进行补充。
 
 #### 15. 内置对象
+    TODO： 这个需要在实际的场景中应用再进行补充。
