@@ -13,6 +13,7 @@
 # Storage:
 - redis
 - mongodb
+    - [mongodb](/geek/storage/mongodb/index.md)
 - elasticSearch
 - mysql
 
