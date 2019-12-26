@@ -13,7 +13,7 @@
 # Storage:
 - redis
 - mongodb
-    - [mongodb](/geek/storage/mongodb/index.md)
+
 - elasticSearch
 - mysql
 
@@ -33,7 +33,8 @@
 
 # TODO:
 - 微信小程序
-- 微信支付 - java
+- 微信支付
 - mongodb
+    - [mongodb](/geek/storage/mongodb/index.md)
 
 
