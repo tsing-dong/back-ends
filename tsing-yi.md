@@ -31,6 +31,9 @@
 
 # Block chain
 
+# Technology Extension
+- [openvpn](/geek/technologyextension/openvpn/index.md)
+
 # TODO:
 - https 证书制作
 - 微信小程序
