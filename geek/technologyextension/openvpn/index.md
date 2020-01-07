@@ -1,4 +1,5 @@
 #### 1. 将文件上传到服务器 openvpn-install.sh
+- [openvpn](./openvpn-install.sh)
 
 #### 2. 修改权限:
 - chood +x openvpn-install.sh
