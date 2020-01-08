@@ -35,10 +35,9 @@
 - [openvpn](/geek/technologyextension/openvpn/index.md)
 
 # TODO:
-- https 证书制作
-- 微信小程序
-- 微信支付
 - mongodb
     - [mongodb](/geek/storage/mongodb/index.md)
 
-
+- 微信小程序
+- 微信支付
+- https 证书制作
