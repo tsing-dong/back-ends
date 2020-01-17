@@ -35,10 +35,14 @@
 - [openvpn](/geek/technologyextension/openvpn/index.md)
 
 # TODO:
-- mongodb
-    - [mongodb](/geek/storage/mongodb/index.md)
+- 待完善
+    - mongodb
+        - [mongodb](/geek/storage/mongodb/index.md)
 
-- 区块链
-- 微信小程序
-- 微信支付
-- https 证书制作
+- 待入 todo
+    - 微信小程序
+
+- 未开始
+    - 区块链
+    - 微信支付
+    - https 证书制作
