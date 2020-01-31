@@ -5,7 +5,7 @@
 - [helloworld-git](helloworld-git.md)
 
 #### 3. 开始打造开启大门的钥匙
-- opengithubkey
+- [opengithubkey](opengithubkey.md)
 
 #### 4. 开始添置物品到房间内部
 - git
