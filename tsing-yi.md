@@ -32,8 +32,7 @@
 # Block chain
 
 # Tools
-- Git
-        - [git](/geek/tools/git/index.md)
+- [git](/geek/tools/git/index.md)
 
 # Technology Extension
 - [openvpn](/geek/technologyextension/openvpn/index.md)
