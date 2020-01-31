@@ -136,7 +136,7 @@
         git push -u origin master
     ```
 
-#### 从到远程的仓库获取
+#### 从远程的仓库获取
 - git clone -- 获取远程仓库
     ```
         git clone 仓库的网络地址
