@@ -1,53 +1,62 @@
-# Framework
-- back-end
-    - springboot
-    - springCloud
-    - spring
-    - nestjs
+---
+description: 重构计划
+---
 
-- font-end
-    - vue
-    - nust
-    
+# tsing-yi
 
-# Storage:
-- redis
-- mongodb
+## Framework
 
-- elasticSearch
-- mysql
+* back-end
+  * springboot
+  * springCloud
+  * spring
+  * nestjs
+* font-end
+  * vue
+  * nust
 
-# Network:
-- activemq
-- kafka
+## Storage:
 
-# Architecture
+* redis
+* mongodb
+* elasticSearch
+* mysql
 
-# Language
-- back-end
+## Network:
 
-- font-end
-    - [TypeScript](/geek/language/font-end/type-script/index.md)
-    - [Promise](/geek/language/font-end/promise/index.md)
-# Block chain
+* activemq
+* kafka
 
-# Tools
-- [git](/geek/tools/git/index.md)
+## Architecture
 
-# Technology Extension
-- [openvpn](/geek/technologyextension/openvpn/index.md)
+## Language
 
-# TODO:
-- 待完善
-    - mongodb
-        - [mongodb](/geek/storage/mongodb/index.md)
+* back-end
+* font-end
+  * [TypeScript](geek/language/font-end/type-script/index.md)
+  * [Promise]()
 
-- 待入 todo
-    - 微信小程序
+    **Block chain**
 
-- 未开始
-    - 区块链
-    - python
-    - go
-    - 微信支付
-    - https 证书制作
+## Tools
+
+* [git](geek/tools/git/index.md)
+
+## Technology Extension
+
+* [openvpn](geek/technologyextension/openvpn/index.md)
+
+## TODO:
+
+* 待完善
+  * mongodb
+    * [mongodb](geek/storage/mongodb/index.md)
+* 待入 todo
+  * 微信小程序
+* 未开始
+  * 区块链
+  * python
+  * go
+  * 微信支付
+  * https 证书制作
+

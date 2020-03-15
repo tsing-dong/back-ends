@@ -1,5 +1,8 @@
-#### 聚合：
-```
+# aggregate
+
+## 聚合：
+
+```text
     聚合管道：
         一个操作的输出作为下一个操作的输入。
     聚合管道操作包含下面的部分：
@@ -23,11 +26,11 @@
             把管道的结果写入某个集合
         $redact:
             控制特定数据的访问。
-
 ```
 
-#### 聚合-实战：
-```
+## 聚合-实战：
+
+```text
 //根据 product_id 分组输入文档，计算每个产品的评价数量
 db.reviews.aggregate([
     { $group: {_id: '$product_id',count:{$sum:1}}}
@@ -142,5 +145,5 @@ $allElementsTrue true :如果所有集合元素都为 true,则为true.
 db.tree.distinct('sku');
 
 // map-reduce
-
 ```
+
