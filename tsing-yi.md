@@ -28,7 +28,7 @@
 
 - font-end
     - [TypeScript](/geek/language/font-end/type-script/index.md)
-
+    - [Promise](/geek/language/font-end/promise/index.md)
 # Block chain
 
 # Tools
