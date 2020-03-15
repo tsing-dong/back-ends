@@ -1,5 +1,8 @@
-#### 基本数据类型：
-```
+# client.crud
+
+## 基本数据类型：
+
+```text
 字符串 - 这是用于存储数据的最常用的数据类型。MongoDB中的字符串必须为UTF-8。
 整型 - 此类型用于存储数值。 整数可以是32位或64位，具体取决于服务器。
 布尔类型 - 此类型用于存储布尔值(true / false)值。
@@ -16,17 +19,18 @@ Null - 此类型用于存储Null值。
 二进制数据 - 此数据类型用于存储二进制数据。
 代码 - 此数据类型用于将JavaScript代码存储到文档中。
 正则表达式 - 此数据类型用于存储正则表达式。
-
 ```
 
-#### create database:
-```
+## create database:
+
+```text
 // 如果没有数据库就创建数据库，如果有直接返回数据库
 use databaseName
 ```
 
-#### use database:
-```
+## use database:
+
+```text
 // 查看当前使用的数据库
 db
 
@@ -34,15 +38,17 @@ db
 show dbs
 ```
 
-#### drop database:
-```
+## drop database:
+
+```text
 use databaseName
 
 db..dropDatabase();
 ```
 
-#### 数据库管理：
-```
+## 数据库管理：
+
+```text
     当数据库中还没有集合时，只有在执行 insert 时，才会检查数据库中有没有集合，如果没有集合就会创建集合，然后将新增的文档插入到集合中。还在磁盘上创建数据库。
 
     创建集合的时候，mongodb 会在磁盘上创建一系列的数据库文件集合，包括所有的集合，索引，还有其他的元数据。 如果去不同的机器中看到的创建的文件可能不一致。
@@ -57,44 +63,45 @@ db..dropDatabase();
     通过 db.stats() 可以查询
 ```
 
+## create collection:
 
-#### create collection:
-```
+```text
 // options 可选参数
 db.createCollection(name, options)
 ```
 
-#### drop collection:
-```
+## drop collection:
+
+```text
 db.lidong.drop()
 ```
 
-#### 集合管理：
-```
+## 集合管理：
+
+```text
     基础的集合不用整理，主要整理一下特殊的集合。
 
     盖子集合：
         盖子集合是说集合的存储量是有上限的，当达到上限时最先进的数据就会废除掉。
-    
+
     db.createCollection("gaizijihe", {capped:true, size:1000, max:2})
 
     执行插入 2000 行数据，等执行完成之后，查询数据，发现只有两条数据。只保留了最后的两条数据。
 
     TTL集合：
         当文档创建的时间超过当前时间，数据就会删除。
-        
+
         db.dong.createIndex({time_field:1},{expireAfterSeconds:30})
 
         db.dong.insert({
         time_field:new Date(),
         name:"Jing"
         })
-    
-
 ```
 
-#### insert：
-```
+## insert：
+
+```text
 // 简单的插入数据
 db.demo.insert(
     {"name": 'Do.L'}
@@ -106,8 +113,9 @@ for(i=0; i<=2000;i++){
 }
 ```
 
-#### delete or drop：
-```
+## delete or drop：
+
+```text
 // 清空所有集合：
 db.getCollection('demo').remove()
 
@@ -122,8 +130,9 @@ db.getCollection('demo').drop()
 // 删除单条数据用 remove
 ```
 
-#### update:
-```
+## update:
+
+```text
 // 使用 $set 操作符号进行文档修改
 db.demo.update(
     {name:"Jar"},
@@ -174,8 +183,9 @@ false: 控制是否允许 updtate,当一个文档不存在时是否插入数据�
 true: 是否多个更新，mongodb 默认只更新匹配到的第一个文档，如果想要更新所有的用户，这个必须是 true.
 ```
 
-#### conditional Query:
-```
+## conditional Query:
+
+```text
 // 简单的条件查询
 db.demo.find(
    {
@@ -237,11 +247,11 @@ db.getCollection('numbers').find({}).skip(10).limit(10).sort({'uum':1})
 db.getCollection('dong').find({
         'name': /^D/
 })
-
 ```
 
-#### 投影查询:
-```
+## 投影查询:
+
+```text
 db.getCollection('tree').find({},{name:1})
 ```
 
