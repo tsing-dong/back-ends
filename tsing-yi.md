@@ -1,7 +1,3 @@
----
-description: 重构计划
----
-
 # tsing-yi
 
 ## Framework
@@ -34,9 +30,9 @@ description: 重构计划
 * back-end
 * font-end
   * [TypeScript](geek/language/font-end/type-script/index.md)
-  * [Promise]()
+  * [Promise](geek/language/font-end/promise/index.md)
 
-    **Block chain**
+## Block chain
 
 ## Tools
 
