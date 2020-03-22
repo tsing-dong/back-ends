@@ -1,5 +1,3 @@
-# tsing-yi
-
 ## Framework
 
 * back-end
@@ -27,10 +25,13 @@
 
 ## Language
 
-* back-end
-* font-end
-  * [TypeScript](geek/language/font-end/type-script/index.md)
-  * [Promise](geek/language/font-end/promise/index.md)
+- back-end
+- font-end
+  - [TypeScript](geek/language/font-end/type-script/index.md)
+  - [Promise](geek/language/font-end/promise/index.md)
+
+- linux
+  -  [Shell](geek/language/linux/shell/index.md)
 
 ## Block chain
 
