@@ -5,6 +5,7 @@
 - d. uniq
 - e. tee
 - f. diff
+- g. expect
 
 ### a. grep
 - 定义：
@@ -90,3 +91,54 @@
    - --normal: 正常的显示(默认)
    - -c: 上下文格式显示
    - -u: 合并格式显示
+
+### g. expect
+- 定义:
+    - 实现服务器的自动应答
+    - 注意：
+        - 这个的获取参数和shell不一样
+
+- 语法:
+
+- 示例:
+    ```
+        !/usr/bin/expect
+
+        # 定义变量
+        set ip 192.168.1.12
+
+        #开启服务
+        spawn ssh root@$ip
+        # 捕获相关内容
+        expect {
+            "(yes/no)" { send "yes\r";exp_continue}
+            "password:" { send "123456\r"} 
+        }
+
+        interact #交互
+    ```
+
+    - expect和shell结合使用
+    ```
+        !/usr/bin/env bash
+
+        while read ip pass //这个是在外置文件中的变量
+        do
+            /user/bin/expect <<-END &>/dev/null
+            #开启服务
+            spawn ssh root@$ip
+            # 捕获相关内容
+            expect {
+                "(yes/no)" { send "yes\r";exp_continue}
+                "password:" { send "123456\r"} 
+            }
+
+            expect "#" {send "useradd dong.li; rm -rf /temp/*; exit\r}
+            expect eof
+            END
+        done < ip.text
+
+        #ip.text
+        127.0.0.1 12343
+        127.0.0.2 12343
+    ```
